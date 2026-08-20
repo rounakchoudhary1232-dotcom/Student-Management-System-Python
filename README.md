@@ -2,40 +2,39 @@
 
 A beginner-friendly Student Management System built in Python using Object-Oriented Programming (OOP).
 
-This project allows users to manage student records, calculate marks and grades, search students, update information, delete records, and rank students based on their average marks.
+This project allows users to manage student records, calculate marks and grades, search students, update information, delete records, and rank students based on average marks.
 
 ## 🚀 Features
 
-- ➕ Add a new student
-- 🔍 Search student by roll number
-- ✏️ Update student information
-- ❌ Delete student
-- 👀 Display all students
-- 📊 Calculate average marks
-- 🏆 Assign grades based on average marks
-- 📈 Rank students by average marks
-- 🔄 Interactive menu-driven program
+- ➕ Add Student
+- 🔍 Search Student by Roll Number
+- ✏️ Update Student Details
+- ❌ Delete Student
+- 👀 Display All Students
+- 📊 Calculate Average Marks
+- 🏆 Assign Grades
+- 📈 Rank Students by Average Marks
+- 🔄 Interactive Menu-Driven Program
 
 ## 🧠 OOP Concepts Used
 
 - Classes and Objects
-- `__init__` constructor
-- Instance attributes
-- Instance methods
-- Object manipulation
-- Encapsulation of student-related operations
+- `__init__` Constructor
+- Instance Attributes
+- Instance Methods
+- Object Manipulation
 
 ## 🛠️ Python Concepts Used
 
 - Lists
 - Loops
-- Conditional statements
+- Conditional Statements
 - Functions
 - `sorted()`
 - `lambda`
 - `enumerate()`
-- User input
-- CRUD operations
+- User Input
+- CRUD Operations
 
 ## 📚 Subjects
 
@@ -56,9 +55,9 @@ The system currently manages marks for:
 
 ## ▶️ How to Run
 
-Make sure Python is installed on your computer.
+Make sure Python is installed.
 
-Run the program using:
+Run:
 
 ```bash
 python student_management_by_oops.py
